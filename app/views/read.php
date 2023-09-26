@@ -33,6 +33,7 @@
             <div class="d-grid gap-2 justify-content-md-end">
                 <a href="./create" class="btn btn-success">Agregar</a>
                 <a href="./readCategoria" class="btn btn-primary">Ver Categoria</a>
+                <a href="./logout" class="btn btn-dark">Cerrar sesion</a>
             </div>
         </div>
     </div>

@@ -8,6 +8,7 @@
         "telefono" => $_POST["telefono"],
         "email" => $_POST["email"],
         "id_categoria" => $_POST["id_categoria"],
-        "categoria" => $_POST["categoria"]
+        "categoria" => $_POST["categoria"],
+        "creador_por" => $_SESSION["id_usuario"]
     ]);
 ?>
